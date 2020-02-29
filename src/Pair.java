@@ -1,4 +1,4 @@
-package pokemoncloneworkspace.src;
+package src;
 
 public class Pair<L,R> {
 

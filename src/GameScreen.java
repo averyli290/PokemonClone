@@ -1,4 +1,4 @@
-package pokemoncloneworkspace.src;
+package src;
 
 import javax.swing.*;
 
