@@ -1,3 +1,5 @@
+package pokemoncloneworkspace.src;
+
 import javax.swing.*;
 
 public class GameScreen {

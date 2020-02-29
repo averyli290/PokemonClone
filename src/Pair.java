@@ -1,3 +1,5 @@
+package pokemoncloneworkspace.src;
+
 public class Pair<L,R> {
 
   private final L left;
